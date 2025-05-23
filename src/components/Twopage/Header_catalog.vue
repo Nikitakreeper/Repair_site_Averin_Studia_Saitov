@@ -29,7 +29,7 @@ export default {
   <div>
     <header>
       <img class="logo_desktop" src="/src/assets/logo/logo_catalog.svg" alt="">
-      <img class="logo_mobile" src="../assets/logo/logo_mobile.svg" alt="">
+      <img class="logo_mobile" src="/src/assets/logo/logo_mobile.svg" alt="">
       <nav>
         <ul>
           <li><a href="/Catalog">Каталог</a></li>
